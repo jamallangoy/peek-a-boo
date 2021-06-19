@@ -16,7 +16,7 @@ Peak-A-Boo is a real-time mouse tracker.  In a jist, where your mouse goes, my e
 
 # Documentation
 
-Learn how to use Mapbox and Asynchronous Programming 
+Learn how to use CSS and setTimeout
 
 -CSS: https://developer.mozilla.org/en-US/docs/Web/CSS
 
