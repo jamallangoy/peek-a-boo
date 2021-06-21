@@ -1,5 +1,7 @@
 # Peek-A-Boo
 
+<img src="" width="300px" style="borderRadius = 50%"
+
 ## Version 1 - Week 8: Styles and Bootstrap (MIT XPro, June 2021)
 
 # Description
