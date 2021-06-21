@@ -1,6 +1,6 @@
 # Peek-A-Boo
 
-<img src="" width="300px" style="borderRadius = 50%"
+<img src="https://github.com/jamallangoy/peek-a-boo/blob/main/eyePiciture.jpg" width="300px" style="borderRadius = 50%"/>
 
 ## Version 1 - Week 8: Styles and Bootstrap (MIT XPro, June 2021)
 
